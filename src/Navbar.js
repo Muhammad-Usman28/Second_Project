@@ -12,7 +12,7 @@ export default function Navbar() {
                 <h1 className='font-poppins font-extrabold text-xl size-[24px] leading-[36px]'>Logo</h1>
             </div>
 
-            <div className='w-[800px] h-[45px]  absolute left-[450px] gap-[28px] flex items-center
+            <div className='w-[800px] h-[45px]  absolute left-[250px] gap-[28px] flex items-center
             font-poppins'>
             <select name="services" id="services" >
             <option value="" >Service</option>
