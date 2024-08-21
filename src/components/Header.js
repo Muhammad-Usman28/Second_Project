@@ -28,7 +28,7 @@ text-white'>
 
 </div>
 
-<div className='w-[400px] h-[22px] absolute top-[14px] ml-[1200px] '>
+<div className='w-[200px] h-[22px] absolute top-[14px] ml-[900px] '>
    <FontAwesomeIcon icon={faInstagram} className="w-[50px] h-[25px] text-[#FFFFFF]"/>
    <FontAwesomeIcon icon={faFacebook} className="w-[50px] h-[25px] text-[#FFFFFF]"/>
    <FontAwesomeIcon icon={faTwitter} className="w-[50px] h-[25px] text-[#FFFFFF]"/>
