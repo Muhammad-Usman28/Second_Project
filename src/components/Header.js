@@ -6,7 +6,7 @@ import { faFacebook, faInstagram, faPinterest, faTwitter } from '@fortawesome/fr
 export default function Header() {
   return (
     <div>
-      <header className='xl:w-full xl:h-[50px] xl:bg-[#202430] '>
+      <header className='w-full h-[50px] bg-[#202430] '>
 
       
 <div className="className= w-[600px] h-[22px]  absolute top-[14px] left-[167px] gap-[42px]
