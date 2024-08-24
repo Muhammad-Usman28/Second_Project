@@ -3,33 +3,35 @@ import React from 'react'
 export default function Service() {
   return (
     <div>
-      <div className='w-full h-[661px] top-[1460px] absolute bg-[#F2F3F6]'>
+      <div className='
+      xl:w-full xl:h-[661px] xl:top-[1460px] xl:absolute xl:bg-[#F2F3F6]'>
 
-        <div className='w-[1000px] h-[545px] top-[60px] absolute left-[100px]'>
-            <h1 className='w-[450px] h-[77px] top-[60px] text-4xl font-poppins size-[48px] font-semibold'>Our Service Offering</h1>
+        <div className='
+        xl:w-[1000px] xl:h-[545px] xl:top-[60px] xl:absolute xl:left-[100px]'>
+            <h1 className='
+            xl:w-[450px] xl:h-[77px] xl:top-[60px] xl:text-4xl xl:font-poppins xl:size-[48px] xl:font-semibold'>Our Service Offering</h1>
         </div>
 
-             <button className='w-[300px] h-[60px] top-[183px] left-[90px] absolute rounded-full 
-                p-[10px, 20px, 10px, 20px] gap-[8px] bg-[#006FFF] text-[#FFFFFF] font-poppins size-[18px]
-                font-normal'>
-                    Digital Application Service
-            </button>
+         <button className='
+          xl:w-[300px] xl:h-[60px] xl:top-[183px] xl:left-[90px] xl:absolute rounded-full xl:px-[20px] xl:py-[10px] xl:gap-[8px] xl:hover:bg-[#006FFF] xl:text-[#333333] xl:font-poppins xl:text-[18px] xl:font-normal xl:border border-black'>
+          Digital Application Service
+        </button>
 
-                <button className='w-[200px] h-[60px] top-[183px] left-[400px] absolute rounded-full 
-                p-[16px, 36px, 16px, 36px] gap-[10px]  text-[#333333] font-poppins size-[18px]
-                font-normal border border-black'>
+
+                <button className='
+                xl:w-[200px] xl:h-[60px] xl:top-[183px] xl:left-[400px] xl:absolute xl:rounded-full 
+                xl:p-[16px, 36px, 16px, 36px] xl:gap-[10px] xl:hover:bg-[#006FFF] xl:text-[#333333] xl:font-poppins xl:size-[18px] xl:font-normal xl:border border-black'>
                     UI/XM Services
                 </button>
                 
-                <button className='w-[300px] h-[60px] top-[183px] left-[615px] absolute rounded-full 
-                p-[16px, 36px, 16px, 36px] gap-[10px]  text-[#333333] font-poppins size-[18px]
-                font-normal border border-black'>
+                <button className='
+                xl:w-[300px] xl:h-[60px] xl:top-[183px] xl:left-[615px] xl:absolute xl:rounded-full xl:p-[16px, 36px, 16px, 36px] xl:gap-[10px] xl:hover:bg-[#006FFF] xl:text-[#333333] xl:font-poppins xl:size-[18px] xl:font-normal xl:border border-black'>
                     Quality Engineering Services
                 </button>
                 
-                <button className='w-[300px] h-[60px] top-[183px] left-[930px] absolute rounded-full 
-                p-[16px, 30px, 16px, 30px] gap-[10px]  text-[#333333] font-poppins size-[18px]
-                font-normal border border-black'>
+                <button className='
+                xl:w-[300px] xl:h-[60px] xl:top-[183px] xl:left-[930px] xl:absolute xl:rounded-full 
+                xl:p-[16px, 30px, 16px, 30px] xl:gap-[10px] xl:hover:bg-[#006FFF] xl:text-[#333333] xl:font-poppins xl:size-[18px] xl:font-normal xl:border border-black'>
                     Enterprise Content Managment
                 </button>
                 
