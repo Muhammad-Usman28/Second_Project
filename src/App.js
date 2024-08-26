@@ -16,7 +16,7 @@ function App() {
       <Service/>
       <Industries/>
       <Connect/>
-      <Finalpart/>
+      {/* <Finalpart/> */}
     </div>
   );
 }
