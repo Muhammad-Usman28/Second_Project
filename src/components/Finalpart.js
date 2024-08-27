@@ -9,7 +9,7 @@ export default function Finalpart() {
       md:w-full md:h-[650px] md:top-[3694px] md:absolute md:bg-[#202430]'>
 
             {/* First Part */}
-            <div className='
+            {/* <div className='
             xl:w-[230px] xl:h-[240px] xl:top-[60px] xl:absolute xl:left-[100px]
             lg:w-[230px] lg:h-[240px] lg:top-[60px] lg:absolute lg:left-[100px]
             md:w-[140px] md:h-[280px] md:top-[60px] md:absolute md:left-[50px]'>
@@ -48,11 +48,11 @@ export default function Finalpart() {
                     lg:w-[220px] lg:h-[26px] lg:font-poppins lg:font-light lg:text-[#FFFFFF] lg:mt-[8px]
                     md:w-[130px] md:h-[26px] md:font-poppins md:font-light md:text-[#FFFFFF] md:mt-[8px]'>Cyber Security</p>
                     </div>
-            </div>
+            </div> */}
 
             {/* Second Part */}
 
-            <div  className='
+            {/* <div  className='
             xl:w-[240px] xl:h-[460px] xl:top-[60px] xl:absolute xl:left-[350px]
             lg:w-[240px] lg:h-[460px] lg:top-[60px] lg:absolute lg:left-[350px]
             md:w-[150px] md:h-[460px] md:top-[60px] md:absolute md:left-[190px]'>
@@ -115,10 +115,10 @@ export default function Finalpart() {
                     </div>
 
                 
-            </div>
+            </div> */}
 
 {/* third Part */}
-            <div  className='
+            {/* <div  className='
             xl:w-[240px] xl:h-[460px] xl:top-[60px] xl:absolute xl:left-[610px]
             lg:w-[240px] lg:h-[460px] lg:top-[60px] lg:absolute lg:left-[610px]
             md:w-[130px] md:h-[460px] md:top-[60px] md:absolute md:left-[350px]'>
@@ -193,10 +193,10 @@ export default function Finalpart() {
                     md:w-[120px] md:h-[26px] md:font-poppins md:font-light md:text-[#FFFFFF] md:mt-[8px]'> Uipath</p>
 
                     </div>     
-            </div>
+            </div> */}
 
             {/* Fourth Part */}
-
+{/* 
             <div className='
             xl:w-[230px] xl:h-[240px] xl:top-[60px] xl:absolute xl:left-[830px]
             lg:w-[230px] lg:h-[240px] lg:top-[60px] lg:absolute lg:left-[830px]
@@ -231,10 +231,10 @@ export default function Finalpart() {
                     lg:w-[220px] lg:h-[26px] lg:font-poppins lg:font-light lg:text-[#FFFFFF] lg:mt-[8px]
                     md:w-[120px] md:h-[26px] md:font-poppins md:font-light md:text-[#FFFFFF] md:mt-[8px]'>Strategic Paternship</p>
                     </div>
-            </div>
+            </div> */}
 
             {/* Fifth part */}
-             <div className='
+             {/* <div className='
              xl:w-[180px] xl:h-[240px] xl:top-[60px] xl:absolute xl:left-[1050px]
              lg:w-[180px] lg:h-[240px] lg:top-[60px] lg:absolute lg:left-[1050px]
              md:w-[130px] md:h-[240px] md:top-[60px] md:absolute md:left-[620px]'>
@@ -258,13 +258,13 @@ export default function Finalpart() {
                         lg:w-[180px] lg:h-[26px] lg:font-poppins lg:font-light lg:text-[#FFFFFF] lg:mt-[8px]
                          md:w-[130px] md:h-[26px] md:font-poppins md:font-light md:text-[#FFFFFF] md:mt-[35px]'>Apply Now</p>
                 </div>
-            </div>
+            </div> */}
 
       </div>
 
       {/* Footer */}
 
-      <footer className='
+      {/* <footer className='
       xl:w-full xl:h-[75px] xl:top-[4240px] xl:absolute xl:bg-[#F2F3F6]
       lg:w-[1240px] lg:h-[75px] lg:top-[4240px] lg:absolute lg:bg-[#F2F3F6]
       md:w-full md:h-[60px] md:top-[4330px] md:absolute md:bg-[#F2F3F6]'>
@@ -294,8 +294,8 @@ export default function Finalpart() {
                 lg:w-[200px] lg:h-[26px] lg:font-poppins lg:font-semibold lg:text-[16px]
                 md:w-[130px] md:h-[26px] md:font-poppins md:font-semibold md:text-[10px]'>Accessibility Statement</p>
             </div>
-      </footer>
-
+      </footer> */}
+{/* 
             <div className='
             xl:w-full xl:h-[75px] xl:top-[4300px] xl:absolute xl:bg-[#202430]
             lg:w-[1240px] lg:h-[75px] lg:top-[4300px] lg:absolute lg:bg-[#202430]
@@ -304,7 +304,7 @@ export default function Finalpart() {
                 xl:w-[215px] xl:h-[26px] xl:top-[24px] xl:left-[515px] xl:absolute xl:text-[#FFFFFF]
                 lg:w-[215px] lg:h-[26px] lg:top-[24px] lg:left-[515px] lg:absolute lg:text-[#FFFFFF]
                 md:w-[215px] md:h-[26px] md:top-[24px] md:left-[300px] md:absolute md:text-[#FFFFFF]'>2024 @ All rights reserved.</p>
-            </div>
+            </div> */}
     </div>
   )
 }

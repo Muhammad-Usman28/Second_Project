@@ -15,19 +15,25 @@ export default function Navbar() {
       lg:w-full lg:h-[45px] lg:left-[160px] lg:relative lg:top-[27px]
       md:w-[500px] md:h-[45px] left-[160px] md:relative md:top-[27px]'>
 
-            <div className='
-            xl:w-[60px] xl:h-[36px] xl:top-[6px] xl:absolute  xl:pl-2
-            lg:w-[60px] lg:h-[36px] lg:top-[6px] lg:absolute  lg:pl-2
-            md:w-[60px] md:h-[36px] md:top-[6px] md:absolute  md:pl-2'>
-                <h1 className='
-                xl:font-poppins xl:font-extrabold xl:text-xl xl:size-[24px] xl:leading-[36px] xl:ml-[-50px]
-                lg:font-poppins lg:font-extrabold lg:text-xl lg:size-[24px] lg:leading-[36px] lg:ml-[-50px]md:font-poppins md:font-extrabold md:text-xl md:text-[14px] md:leading-[36px] ml-[-30px]'>Logo</h1>
-            </div>
+      <div className='
+        hidden md:block
+        xl:w-[60px] xl:h-[36px] xl:top-[6px] xl:absolute xl:pl-2
+        lg:w-[60px] lg:h-[36px] lg:top-[6px] lg:absolute lg:pl-2
+        md:w-[60px] md:h-[36px] md:top-[6px] md:absolute md:pl-2'>
+          <h1 className='
+            xl:font-poppins xl:font-extrabold xl:text-xl xl:size-[24px] xl:leading-[36px] xl:ml-[-30px]
+            lg:font-poppins lg:font-extrabold lg:text-xl lg:size-[24px] lg:leading-[36px] lg:ml-[50px]
+            md:font-poppins md:font-extrabold md:text-[14px] md:leading-[36px] md:ml-[-60px]'>
+            Logo
+          </h1>
+      </div>
+
 
             <div className='
             xl:w-[750px] xl:h-[45px] xl:absolute xl:left-[300px] xl:gap-[20px] xl:flex xl:items-center xl:font-poppins xl:text-[12px]
             lg:w-[750px] lg:h-[45px] lg:absolute lg:left-[300px] lg:gap-[10px] lg:flex lg:items-center lg:font-poppins lg:text-[14px]
-            md:w-[500px] md:h-[45px] md:absolute md:left-[80px] md:gap-[8px] md:flex md:items-center md:font-poppins md:text-[10px]'>
+            md:w-[500px] md:h-[45px] md:absolute md:left-[80px] md:gap-[8px] md:flex md:items-center md:font-poppins md:text-[10px]
+            w-[350px] h-[45px] absolute left-[50px] gap-[6px] flex items-center font-poppins text-[8px]'>
             <select name="services" id="services" >
             <option value="" >Service</option>
             </select>
@@ -54,6 +60,7 @@ export default function Navbar() {
             md:border-l-2 md:border-gray-500 md:h-6"></span>
 
             <div className='
+                hidden md:block
                 xl:w-[160px] xl:h-[45px] xl:py-[10px] xl.px-[16px] xl:gap-2 xl:bg-[#E9FBFF] xl:rounded-full
                 lg:w-[160px] lg:h-[45px] lg:py-[10px] lg.px-[16px] lg:gap-2 lg:bg-[#E9FBFF] lg:rounded-full
                 md:w-[90px] md:h-[45px] md:py-[10px] md.px-[16px] md:gap-2 md:bg-[#E9FBFF] md:rounded-full'>
