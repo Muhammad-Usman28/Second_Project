@@ -21,7 +21,7 @@ export default function Navbar() {
             md:w-[60px] md:h-[36px] md:top-[6px] md:absolute  md:pl-2'>
                 <h1 className='
                 xl:font-poppins xl:font-extrabold xl:text-xl xl:size-[24px] xl:leading-[36px] xl:ml-[-50px]
-                lg:font-poppins lg:font-extrabold lg:text-xl lg:size-[24px] lg:leading-[36px] lg:ml-[-50px]md:font-poppins md:font-extrabold md:text-xl md:text-[14px] md:leading-[36px] ml-[-90px]'>Logo</h1>
+                lg:font-poppins lg:font-extrabold lg:text-xl lg:size-[24px] lg:leading-[36px] lg:ml-[-50px]md:font-poppins md:font-extrabold md:text-xl md:text-[14px] md:leading-[36px] ml-[-30px]'>Logo</h1>
             </div>
 
             <div className='

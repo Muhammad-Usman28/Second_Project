@@ -14,7 +14,7 @@ export default function Industries() {
         xl:text-[48px] xl:font-semibold
         lg:w-[530px] lg:h-[77px] lg:top-[75px] lg:absolute lg:left-[400px] lg:text-3xl  lg:font-poppins 
         lg:text-[42px] lg:font-semibold
-        md:w-[530px] md:h-[77px] md:top-[75px] md:absolute md:left-[200px] md:text-3xl  md:font-poppins 
+        md:w-[330px] md:h-[77px] md:top-[75px] md:absolute md:left-[250px] md:text-xl  md:font-poppins 
         md:text-[48px] md:font-semibold'>Industries we work with</h1>
 
         <div className='
@@ -245,7 +245,7 @@ export default function Industries() {
             <h1 className='
             xl:w-[250px] xl:text-[15px] xl:h-[30px] xl:top-[70px] xl:absolute xl:left-[27px] xl:font-poppins xl:font-semibold
             lg:w-[200px] lg:text-[15px] lg:h-[30px] lg:top-[70px] lg:absolute lg:left-[27px] lg:font-poppins lg:font-semibold
-            md:w-[170px] md:text-[12px] md:h-[30px] md:top-[70px] md:absolute md:left-[20px] md:font-poppins md:font-semibold'>Travel & Transportation and 
+            md:w-[150px] md:text-[12px] md:h-[30px] md:top-[70px] md:absolute md:left-[20px] md:font-poppins md:font-semibold'>Travel & Transportation and 
             Hospitality</h1>
             <p className='
             xl:w-[250px] xl:h-[57px] xl:top-[120px] xl:absolute xl:left-[27px] xl:font-poppins xl:text-[12px] xl:text-sm
