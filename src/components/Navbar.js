@@ -21,8 +21,8 @@ export default function Navbar() {
         lg:w-[60px] lg:h-[36px] lg:top-[6px] lg:absolute lg:pl-2
         md:w-[60px] md:h-[36px] md:top-[6px] md:absolute md:pl-2'>
           <h1 className='
-            xl:font-poppins xl:font-extrabold xl:text-xl xl:size-[24px] xl:leading-[36px] xl:ml-[-30px]
-            lg:font-poppins lg:font-extrabold lg:text-xl lg:size-[24px] lg:leading-[36px] lg:ml-[50px]
+            xl:font-poppins xl:font-extrabold xl:text-xl xl:text-[24px] xl:leading-[36px] xl:ml-[-30px]
+            lg:font-poppins lg:font-extrabold lg:text-xl lg:text-[24px] lg:leading-[36px] lg:ml-[-20px]
             md:font-poppins md:font-extrabold md:text-[14px] md:leading-[36px] md:ml-[-60px]'>
             Logo
           </h1>
