@@ -6,7 +6,10 @@ export default function Journal() {
   return (
     <div>
 
-      <div className='w-full h-[625px] p-[20px] gap-[20px] flex'>
+      <div className='
+      xl:w-full xl:h-[625px] xl:p-[20px] xl:gap-[20px] xl:flex xl:ml-[-10px]
+      lg:w-[1220px] lg:h-[625px] lg:p-[20px] lg:gap-[20px] lg:flex lg:ml-[10px]
+      md:w-[758px] md:h-[625px] md:p-[20px] md:gap-[20px] md:flex md:ml-[10px] '>
 
         <div className='w-[355px] h-[525px] gap-[24px] '>
 
@@ -31,8 +34,15 @@ export default function Journal() {
             </div>
         </div>
 
-        <div className='w-[990px] h-[525px]'>
-            <img src="images/img16.png" alt="pic" className='h-[525px]'/>
+        <div className='
+        xl:w-[990px] xl:h-[525px]
+        lg:w-[970px] lg:h-[525px]
+        md:h-[525px] md:w-[758px]
+        '>
+            <img src="images/img16.png" alt="pic" className='
+            xl:h-[525px]
+            lg:h-[525px] lg:w-[970px] 
+            md:h-[525px] md:w-[758px] '/>
         </div>
 
       </div>

@@ -4,9 +4,9 @@ export default function Finalpart() {
   return (
     <div>
       <div className='
-      xl:w-full xl:h-[550px] xl:top-[3694px] xl:absolute xl:bg-[#202430]
-      lg:w-[1240px] lg:h-[550px] lg:top-[3694px] lg:absolute lg:bg-[#202430]
-      md:w-full md:h-[650px] md:top-[3694px] md:absolute md:bg-[#202430]
+      xl:w-full xl:h-[550px] xl:top-[5250px] xl:absolute xl:bg-[#202430]
+      lg:w-[1240px] lg:h-[550px] lg:top-[5250px] lg:absolute lg:bg-[#202430]
+      md:w-full md:h-[650px] md:top-[6100px] md:absolute md:bg-[#202430]
       w-[425px] h-[400px] top-[3200px] absolute bg-[#202430]'>
 
             {/* First Part */}
@@ -409,9 +409,9 @@ export default function Finalpart() {
       {/* Footer */}
 
       <footer className='
-      xl:w-full xl:h-[75px] xl:top-[4240px] xl:absolute xl:bg-[#F2F3F6]
-      lg:w-[1240px] lg:h-[75px] lg:top-[4240px] lg:absolute lg:bg-[#F2F3F6]
-      md:w-full md:h-[60px] md:top-[4330px] md:absolute md:bg-[#F2F3F6]
+      xl:w-full xl:h-[75px] xl:top-[5800px] xl:absolute xl:bg-[#F2F3F6]
+      lg:w-[1240px] lg:h-[75px] lg:top-[5800px] lg:absolute lg:bg-[#F2F3F6]
+      md:w-full md:h-[60px] md:top-[6700px] md:absolute md:bg-[#F2F3F6]
       w-[425px] h-[60px] top-[3600px] absolute bg-[#F2F3F6]'>
 
             <div className='
@@ -448,9 +448,9 @@ export default function Finalpart() {
       </footer>
 
             <div className='
-            xl:w-full xl:h-[75px] xl:top-[4300px] xl:absolute xl:bg-[#202430]
-            lg:w-[1240px] lg:h-[75px] lg:top-[4300px] lg:absolute lg:bg-[#202430]
-            md:w-full md:h-[75px] md:top-[4390px] md:absolute md:bg-[#202430]
+            xl:w-full xl:h-[75px] xl:top-[5880px] xl:absolute xl:bg-[#202430]
+            lg:w-[1240px] lg:h-[75px] lg:top-[5880px] lg:absolute lg:bg-[#202430]
+            md:w-full md:h-[75px] md:top-[6760px] md:absolute md:bg-[#202430]
             w-[425px] h-[75px] top-[3660px] absolute bg-[#202430]' >
                 <p className='
                 xl:w-[215px] xl:h-[26px] xl:top-[24px] xl:left-[515px] xl:absolute xl:text-[#FFFFFF]

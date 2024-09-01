@@ -1,5 +1,5 @@
 import './App.css';
-import Footer from './components/services/Footer';
+// import Footer from './components/services/Footer';
 import Items from './components/services/Items';
 import Journal from './components/services/Journal';
 import ServiceHeader from './components/services/ServiceHeader';
@@ -31,7 +31,7 @@ function App() {
       <Journal/>
       <Solution/>
       <Items/>
-      <Footer/>
+      {/* <Footer/> */}
 
 
     </div>
